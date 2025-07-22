@@ -1,0 +1,1 @@
+print("Hello from svc3/main.py")
